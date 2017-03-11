@@ -248,7 +248,7 @@ HAY HD TABS
     color: #f5cc2a;
 }
 #header .with-column-3-200 {
-    width: calc((4 * 150px) + 22px);
+    width: calc((5 * 150px) + 22px);
 	padding: 10px;
     overflow: hidden;
 	position: absolute;
